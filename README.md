@@ -11,16 +11,27 @@ A web application built with React + Vite + TailwindCSS, designed for efficient 
 - Environment
   Create file .env
   MONGO*URI=mongodb+srv://tuantai312004_db_user:LqUTheNtzIvNm33x@devsamurai.uw7xydw.mongodb.net/devsamurai?retryWrites=true&w=majority
+  
   PORT=3000
+  
   GOOGLE_CLIENT_ID=535564170848-8o25lhuh02ote91sbbk5nk24rgae5fkr.apps.googleusercontent.com
+
   GOOGLE_CLIENT_SECRET=GOCSPX-sRXU_73lNAcWskwdVevZF-\_ohml*
+
   JWT_ACCESS_SECRET=change_me_access_secret_key_123
+
   JWT_REFRESH_SECRET=change_me_refresh_secret_key_456
+
   ACCESS_TOKEN_TTL=15m
+
   REFRESH_TOKEN_TTL=7d
+
   REFRESH_COOKIE_NAME=refreshToken
+
   COOKIE_DOMAIN=localhost
+
   COOKIE_SECURE=false
+
   COOKIE_SAMESITE=lax
 
 2. Install Dependencies
