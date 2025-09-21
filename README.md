@@ -5,7 +5,8 @@ A web application built with React + Vite + TailwindCSS, designed for efficient 
 ⚙️ Setup Instructions
 
 1. Clone the Repository
-   git clone https://github.com/your-username/devsamurai-project.git
+   git clone https://github.com/TaiVo030104/devsamurai.git
+
    cd devsamurai-project
 
 - Environment
