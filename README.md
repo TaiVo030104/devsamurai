@@ -55,10 +55,10 @@ The app will be available at http://localhost:5173.
 
 🖼️ Screenshots
 
-1. Sign in Page in Light Mode
+1. Sign in Page in Dark Mode
    ![alt text](image.png)
 
-2. Sign in Page in Dark Mode
+2. Sign in Page in Light Mode
    ![alt text](image-1.png)
 
 3. Sign up Page
