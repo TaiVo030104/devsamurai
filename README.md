@@ -51,7 +51,7 @@ The app will be available at http://localhost:5173.
 
 🔗 Deployed Web URL / Demo
 
-🎥 Demo Video: https://youtu.be/Ms3lh0iJjQ8
+🎥 Demo Video: https://youtu.be/3epSfPKi3ws
 
 🖼️ Screenshots
 
